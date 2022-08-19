@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.roll-dice button {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZOvMl8G-B02oWyvUBsE3whzl0o-v37VuMPtFxsxUzAsyFyUPaTBH-DxOPnH54ijnJZ0&usqp=CAU');
+  background-color: transparent;
+  width: 245px;
+  height: 206px;
+  border: none;
+}
+
+.roll-dice span {
+  font-size: 20px;
+  font-weight: 400;
+}
